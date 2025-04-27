@@ -1,4 +1,4 @@
-# Integrated Development Environments (IDEs) Online
+# Integrated Development Environments Online
 
 - https://vscode.dev/
 - http://ideone.com/
