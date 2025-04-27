@@ -2,12 +2,12 @@
 This is a list of all URLs currently found with programming problems to practice:
 
 - https://projecteuler.net/archives
-- [Open Kattis]
+- https://open.kattis.com/
 - http://nifty.stanford.edu/
 - https://github.com/google/coding-competitions-archive
 - https://icpc.global/worldfinals/past-problems
 - (https://archive.topcoder.com/ProblemArchive) Topcoder Open (TCO) was our annual online and onsite tournament to celebrate and reward the community. It ran from 2001-2022.
-
+- https://www.cs.nthu.edu.tw/~progcont/Olympia/
 - http://codingbat.com/
 - http://www.codewars.com/
 - http://coderbyte.com/
@@ -26,4 +26,20 @@ This is a list of all URLs currently found with programming problems to practice
 - https://www.codingame.com/home
 - http://www.topcoder.com/
 - http://www.pythonchallenge.com/
-
+- https://www.reddit.com/r/dailyprogrammer/
+- http://www.codewars.com/
+- http://coderbyte.com/
+- https://www.reddit.com/r/beginnerprojects//
+- http://programmingpraxis.com/
+- http://codekata.com/
+- http://www.codeeval.com/
+- http://www.checkio.org/
+- http://exercism.io/
+- http://programarcadegames.com/
+- https://codefights.com/
+- http://projectsthehardway.com/
+- http://code.runnable.com/
+- http://code.runnable.com/me/VYRKZmM0o8Yg3uIJ
+- http://code.runnable.com/me/VYRKug9VI84g8461
+- http://www.codeabbey.com/
+- http://ideone.com/
