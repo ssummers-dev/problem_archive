@@ -3,7 +3,7 @@ This is a list of all URLs currently found with programming problems:
 
 - [ProjectEuler](https://projecteuler.net/archives)
 - [Open Kattis]
-- [Nifty Assignments at Stanford]
+- [Nifty Assignments at Stanford](http://nifty.stanford.edu/)
 - [Coding Competitions - Code Jam](https://github.com/google/coding-competitions-archive)
 - [icpc](https://icpc.global/worldfinals/past-problems)
 - [TopCoder Online and Onsite tournament (TCO).  It ran from 2001-2022](https://archive.topcoder.com/ProblemArchive)
